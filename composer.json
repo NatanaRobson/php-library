@@ -1,0 +1,12 @@
+{
+    "name": "natanarobson/php-library",
+    "description": "filled with re usable classes",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Natanarobson\\PhpLibrary\\": "src/"
+        }
+    },
+    "require": {}
+}
